@@ -1,1 +1,1 @@
-# Visual-Information-Fidelity---Python
+# Visual-Information-Fidelity (VIF) - Python
